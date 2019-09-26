@@ -1,0 +1,25 @@
+tr {
+    border-bottom: 2px solid #cccc !important;
+    display: block;
+    height: 80px;
+    line-height: 80px;
+
+}
+
+td {
+    width: 200px;
+}
+
+#title > td {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 30px;
+    padding-left: 200px;
+    color: mediumblue;
+}
+#img1,#img2,#img3,#img4,#img5{
+    width: 60px;
+    height: 60px;
+}
